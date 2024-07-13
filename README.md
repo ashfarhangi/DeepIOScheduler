@@ -5,7 +5,9 @@ This project is aimed at enhancing the performance of storage systems in the big
 
 ## Features
 • **Predictive I/O Scheduling:** Utilizes deep recurrent neural networks to learn and predict I/O request patterns.
+
 • **Improved Cache/Memory Performance:** Pre-loads predicted I/O requests to reduce cache/memory misses.
+
 • **Time-Aware Multi-Task Prediction:** Addresses timing constraints to ensure predictions are made and acted upon in a timely manner.
 
 ## Citation
