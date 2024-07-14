@@ -10,6 +10,11 @@ This project is aimed at enhancing the performance of storage systems in the big
 
 • **Time-Aware Multi-Task Prediction:** Addresses timing constraints to ensure predictions are made and acted upon in a timely manner.
 
+## Getting Started
+• First unpack the data for both datasets
+• Utilize the data_utils.py file to process the data
+• Run model.py to train and predict.py to run predictions
+
 ## Citation
 ```
 @inproceedings{Farhangi2019DeepIOScheduler,
